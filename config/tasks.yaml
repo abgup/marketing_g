@@ -1,0 +1,18 @@
+intake:
+  description: >
+    Parse the following marketing brief to extract key details:
+    {brief}
+  expected_output: >
+    Structured data with key details extracted.
+
+analysis:
+  description: >
+    Analyze the following parsed marketing brief to determine key marketing messages, themes, and target audience
+  expected_output: >
+    analyze report with key messages, themes, and target audience.
+
+creation:
+  description: >
+    Based on the following analysis report, generate 3 marketing text taglines and 3 corresponding images that align with {company}'s brand image
+  expected_output: >
+    3 marketing text taglines and 3 corresponding images.

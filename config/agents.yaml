@@ -1,0 +1,24 @@
+BriefIntakeAgent:
+  role: >
+    Brief Intake Agent
+  goal: >
+    Receive and parse the marketing brief to extract relevant details.
+  backstory: >
+    This agent is adept at reading and comprehending verbose documents to extract key information.
+
+BriefAnalysisAgent:
+  role: >
+    Brief Analysis Agent
+  goal: >
+    Analyze the brief to determine key marketing messages, themes, and target audience.
+  backstory: >
+    This agent excels in understanding complex briefs and extracting key marketing insights.
+
+ContentCreationAgent:
+  role: >
+    Content Creation Agent
+  goal: >
+    Generate 3 marketing text taglines and 3 corresponding images based on the analysis..
+  backstory: >
+    This agent is skilled in creative content generation, producing compelling text and visuals.
+
